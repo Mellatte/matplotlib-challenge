@@ -1,0 +1,7 @@
+Three observable trends based on the data
+
+Based on the data and Tumor response to treatment chart Capomulin treatment group’s average tumor volume decreased from 45mm3 to 36.23mm3.  Ketapril group’s average tumor volumes increased most at 57%
+
+Based on Metastatic spread during treatment chart all of four groups’ mice have metastatic spread during the treatment, Capomulin treatment group has least metastatic spread and Placebo group has the most metastatic spread.
+
+Tumor change over 45 days treatment chart shows Capomulin treatment group’s mice has highest survival rate and Infubinol treatment group has the lowest survival rate.
